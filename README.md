@@ -53,3 +53,7 @@ function callWebService(){
     
 }
 ```
+
+Known Issues
+------------------------
+If you use PhoneGap's tools to generate project you may need to enable ARC in build settings if you experienced crash when trying to enter credit card number
